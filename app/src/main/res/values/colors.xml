@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="newTaskButton_background">#9A3B3B</color>
+    <color name="toDoList">#AACAAC</color>
+    <color name="completedList">#AACAAC</color>
+    <color name="round_corners">#E2C799</color>
+</resources>

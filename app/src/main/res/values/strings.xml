@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ToDo\'s</string>
+    <string name="textview_date">01 January 2023</string>
+    <string name="todo_list_title">To Do List</string>
+    <string name="contentDescr">None</string>
+    <string name="addNewTaskButton">Add New Task</string>
+    <string name="task_title">Task title</string>
+    <string name="notes_title">Additional Notes</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="save_Button">Save</string>
+    <string name="category_name">Category</string>
+    <string name="task_title_hint">Write your task title here</string>
+    <string name="notes_hint">Write your notes here</string>
+    <string name="calendar_description">Calendar Icon</string>
+    <string name="clock_description">Clock Icon</string>
+    <string name="work_description">Work Icon</string>
+    <string name="school_description">School Icon</string>
+    <string name="phone_description">Phone Icon</string>
+    <string name="pets_description">Pet Icon</string>
+    <string name="person_description">Person Icon</string>
+    <string name="home_description">Home Icon</string>
+    <string name="favorite_description">Favorite(heart) Icon</string>
+    <string name="splash_text">To Do App</string>
+    <string name="splash_text2">by Grzegorz M</string>
+
+</resources>
